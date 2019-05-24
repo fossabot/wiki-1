@@ -1,4 +1,6 @@
 # ATLauncher Wiki
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FATLauncher%2Fwiki.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FATLauncher%2Fwiki?ref=badge_shield)
+
 
 This repository contains all the code and documentation for the ATLauncher wiki. It's built
 with [Docusaurus](https://docusaurus.io/).
@@ -116,3 +118,7 @@ For more information about custom pages, click [here](https://docusaurus.io/docs
 ## Full Documentation
 
 Full documentation can be found on the [Docusaurus website](https://docusaurus.io/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FATLauncher%2Fwiki.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FATLauncher%2Fwiki?ref=badge_large)
